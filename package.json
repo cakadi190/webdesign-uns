@@ -1,0 +1,21 @@
+{
+  "name": "webdesign",
+  "version": "1.0.0",
+  "description": "Merupakan sebuah proyek desain website yang diadakan oleh mikroptik UNS Surakarta",
+  "main": "index.html",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "bootstrap": "^5.0.0-alpha2",
+    "fontawesome": "^5.6.3",
+    "jquery": "^3.5.1",
+    "node-sass": "^4.14.1",
+    "popper": "^1.0.1",
+    "sweetalert": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Adi Komputer",
+  "license": "MIT"
+}
